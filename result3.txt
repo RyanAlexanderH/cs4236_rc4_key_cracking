@@ -1,0 +1,433 @@
+Finding key for A00.data
+L (size of K) = 8
+Number of Tuples = 5000000
+Key Found: 63 63 88 73 12
+
+---------------------------------------
+
+Finding key for A01.data
+L (size of K) = 8
+Number of Tuples = 3000000
+Key Found: 16 80 1 89 86
+
+---------------------------------------
+
+Finding key for A02.data
+L (size of K) = 8
+Number of Tuples = 2000000
+Key Found: 30 56 14 22 53
+
+---------------------------------------
+
+Finding key for A03.data
+L (size of K) = 8
+Number of Tuples = 1500000
+Key Found: 87 18 61 71 1
+
+---------------------------------------
+
+Finding key for A04.data
+L (size of K) = 8
+Number of Tuples = 1000000
+Key Found: 30 3 76 6 37
+
+---------------------------------------
+
+Finding key for A05.data
+L (size of K) = 8
+Number of Tuples = 750000
+Key Found: 17 59 72 55 38
+
+---------------------------------------
+
+Finding key for A06.data
+L (size of K) = 8
+Number of Tuples = 500000
+Key Found: 12 12 11 47 8
+
+---------------------------------------
+
+Finding key for A07.data
+L (size of K) = 8
+Number of Tuples = 300000
+Key not found...
+
+---------------------------------------
+
+Finding key for A08.data
+L (size of K) = 8
+Number of Tuples = 200000
+Key Found: 89 11 10 54 19
+
+---------------------------------------
+
+Finding key for A09.data
+L (size of K) = 8
+Number of Tuples = 100000
+Key not found...
+
+---------------------------------------
+
+Finding key for A10.data
+L (size of K) = 10
+Number of Tuples = 5000000
+Key Found: 17 78 61 20 77 52 68
+
+---------------------------------------
+
+Finding key for A11.data
+L (size of K) = 10
+Number of Tuples = 3000000
+Key Found: 21 80 32 79 56 16 54
+
+---------------------------------------
+
+Finding key for A12.data
+L (size of K) = 10
+Number of Tuples = 2000000
+Key Found: 11 66 87 5 47 50 65
+
+---------------------------------------
+
+Finding key for A13.data
+L (size of K) = 10
+Number of Tuples = 1500000
+Key Found: 68 10 52 48 61 47 7
+
+---------------------------------------
+
+Finding key for A14.data
+L (size of K) = 10
+Number of Tuples = 1000000
+Key Found: 20 10 34 33 30 65 89
+
+---------------------------------------
+
+Finding key for A15.data
+L (size of K) = 10
+Number of Tuples = 750000
+Key not found...
+
+---------------------------------------
+
+Finding key for A16.data
+L (size of K) = 10
+Number of Tuples = 500000
+Key Found: 5 61 52 12 59 76 15
+
+---------------------------------------
+
+Finding key for A17.data
+L (size of K) = 10
+Number of Tuples = 300000
+Key Found: 57 46 24 0 64 43 43
+
+---------------------------------------
+
+Finding key for A18.data
+L (size of K) = 10
+Number of Tuples = 200000
+Key Found: 31 4 25 81 61 77 21
+
+---------------------------------------
+
+Finding key for A19.data
+L (size of K) = 10
+Number of Tuples = 100000
+Key not found...
+
+---------------------------------------
+
+Finding key for A20.data
+L (size of K) = 12
+Number of Tuples = 5000000
+Key Found: 23 67 17 71 24 23 0 35 52
+
+---------------------------------------
+
+Finding key for A21.data
+L (size of K) = 12
+Number of Tuples = 3000000
+Key Found: 34 60 27 57 19 30 9 87 55
+
+---------------------------------------
+
+Finding key for A22.data
+L (size of K) = 12
+Number of Tuples = 2000000
+Key Found: 46 48 36 13 23 7 18 80 10
+
+---------------------------------------
+
+Finding key for A23.data
+L (size of K) = 12
+Number of Tuples = 1500000
+Key Found: 68 29 14 60 2 73 13 79 37
+
+---------------------------------------
+
+Finding key for A24.data
+L (size of K) = 12
+Number of Tuples = 1000000
+Key Found: 20 5 57 79 55 44 78 85 0
+
+---------------------------------------
+
+Finding key for A25.data
+L (size of K) = 12
+Number of Tuples = 750000
+Key Found: 89 88 68 15 42 3 66 74 85
+
+---------------------------------------
+
+Finding key for A26.data
+L (size of K) = 12
+Number of Tuples = 500000
+Key Found: 58 78 53 44 73 41 10 14 75
+
+---------------------------------------
+
+Finding key for A27.data
+L (size of K) = 12
+Number of Tuples = 300000
+Key Found: 30 13 20 35 49 64 51 64 88
+
+---------------------------------------
+
+Finding key for A28.data
+L (size of K) = 12
+Number of Tuples = 200000
+Key Found: 75 19 83 6 77 18 32 76 83
+
+---------------------------------------
+
+Finding key for A29.data
+L (size of K) = 12
+Number of Tuples = 100000
+Key not found...
+
+---------------------------------------
+
+Finding key for A30.data
+L (size of K) = 14
+Number of Tuples = 5000000
+Key Found: 54 71 11 34 71 28 15 49 32 9 1
+
+---------------------------------------
+
+Finding key for A31.data
+L (size of K) = 14
+Number of Tuples = 3000000
+Key not found...
+
+---------------------------------------
+
+Finding key for A32.data
+L (size of K) = 14
+Number of Tuples = 2000000
+Key Found: 81 6 11 45 67 44 81 6 32 55 60
+
+---------------------------------------
+
+Finding key for A33.data
+L (size of K) = 14
+Number of Tuples = 1500000
+Key Found: 27 85 33 45 37 46 83 12 35 85 74
+
+---------------------------------------
+
+Finding key for A34.data
+L (size of K) = 14
+Number of Tuples = 1000000
+Key Found: 26 45 22 40 76 59 74 23 73 57 80
+
+---------------------------------------
+
+Finding key for A35.data
+L (size of K) = 14
+Number of Tuples = 750000
+Key not found...
+
+---------------------------------------
+
+Finding key for A36.data
+L (size of K) = 14
+Number of Tuples = 500000
+Key Found: 67 23 70 72 64 87 47 2 85 46 26
+
+---------------------------------------
+
+Finding key for A37.data
+L (size of K) = 14
+Number of Tuples = 300000
+Key not found...
+
+---------------------------------------
+
+Finding key for A38.data
+L (size of K) = 14
+Number of Tuples = 200000
+Key not found...
+
+---------------------------------------
+
+Finding key for A39.data
+L (size of K) = 14
+Number of Tuples = 100000
+Key not found...
+
+---------------------------------------
+
+Finding key for A40.data
+L (size of K) = 16
+Number of Tuples = 5000000
+Key Found: 6 12 49 66 37 78 66 57 11 84 70 5 44
+
+---------------------------------------
+
+Finding key for A41.data
+L (size of K) = 16
+Number of Tuples = 3000000
+Key Found: 5 62 42 12 42 5 21 72 48 7 17 55 17
+
+---------------------------------------
+
+Finding key for A42.data
+L (size of K) = 16
+Number of Tuples = 2000000
+Key not found...
+
+---------------------------------------
+
+Finding key for A43.data
+L (size of K) = 16
+Number of Tuples = 1500000
+Key Found: 71 71 71 28 21 38 68 63 54 40 83 23 65
+
+---------------------------------------
+
+Finding key for A44.data
+L (size of K) = 16
+Number of Tuples = 1000000
+Key not found...
+
+---------------------------------------
+
+Finding key for A45.data
+L (size of K) = 16
+Number of Tuples = 750000
+Key Found: 34 5 47 23 6 37 23 58 32 11 82 49 51
+
+---------------------------------------
+
+Finding key for A46.data
+L (size of K) = 16
+Number of Tuples = 500000
+Key not found...
+
+---------------------------------------
+
+Finding key for A47.data
+L (size of K) = 16
+Number of Tuples = 300000
+Key not found...
+
+---------------------------------------
+
+Finding key for A48.data
+L (size of K) = 16
+Number of Tuples = 200000
+Key not found...
+
+---------------------------------------
+
+Finding key for A49.data
+L (size of K) = 16
+Number of Tuples = 100000
+Key not found...
+
+---------------------------------------
+
+Finding key for A50.data
+L (size of K) = 18
+Number of Tuples = 5000000
+Key Found: 1 12 53 56 79 61 2 52 49 43 64 23 26 43 27
+
+---------------------------------------
+
+Finding key for A51.data
+L (size of K) = 18
+Number of Tuples = 3000000
+Key Found: 67 83 0 24 67 3 63 81 47 66 86 30 43 6 17
+
+---------------------------------------
+
+Finding key for A52.data
+L (size of K) = 18
+Number of Tuples = 2000000
+Key Found: 19 8 52 6 32 83 54 87 33 86 40 88 42 70 46
+
+---------------------------------------
+
+Finding key for A53.data
+L (size of K) = 18
+Number of Tuples = 1500000
+Key Found: 4 72 39 88 37 32 19 2 24 35 65 15 52 57 84
+
+---------------------------------------
+
+Finding key for A54.data
+L (size of K) = 18
+Number of Tuples = 1000000
+Key Found: 41 25 37 72 54 28 4 41 27 74 10 39 27 81 30
+
+---------------------------------------
+
+Finding key for A55.data
+L (size of K) = 18
+Number of Tuples = 750000
+Key Found: 14 78 26 53 23 25 26 39 21 17 44 34 33 18 78
+
+---------------------------------------
+
+Finding key for A56.data
+L (size of K) = 18
+Number of Tuples = 500000
+Key Found: 43 56 85 17 56 88 5 13 14 10 50 48 71 69 42
+
+---------------------------------------
+
+Finding key for A57.data
+L (size of K) = 18
+Number of Tuples = 300000
+Key not found...
+
+---------------------------------------
+
+Finding key for A58.data
+L(size of K) = 18
+N umber of Tuples = 200000
+Key not found...
+
+---------------------------------------
+
+Finding key for A59.data
+L (size of K) = 18
+Number of Tuples = 100000
+Key not found...
+
+---------------------------------------
+
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 12
+Seconds           : 31
+Milliseconds      : 565
+Ticks             : 7515656221
+TotalDays         : 0.00869867618171296
+TotalHours        : 0.208768228361111
+TotalMinutes      : 12.5260937016667
+TotalSeconds      : 751.5656221
+TotalMilliseconds : 751565.6221
